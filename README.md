@@ -1,6 +1,6 @@
 # app-streamlit
 
-#**MODELE DE MACHINE LEARNING EN HR - CAS D'USAGE
+#**MODELE DE MACHINE LEARNING EN HR - CAS D'USAGE**
 **
 
 #**Introduction** 🤖
@@ -9,5 +9,5 @@
 #**Modèle** 🔢
 #Le modèle utilisé est un modèle dit supervisé de régression linéaire
 
-#**Utilisation ** 🛠️
+#**Utilisation** 🛠️
 #Ce modèle permet de **prédire** la possibilité d'une **absence** pour une personne donnée, en fonction de son âge, de son équipe d'appartenance et de son ancienneté à partir des données passées. Pour cela il vous suffit de l'importer et de modifier les paramètres
